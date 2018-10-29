@@ -1,0 +1,46 @@
+<DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Mali" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Creepster" rel="stylesheet">
+</head>
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text {
+    color: blue;
+  }
+  .Mali-font {font-family: Mali;}
+  .boxed {
+    width: 300px;
+    border: 25px solid;
+    border-color: purple;
+    padding: 25px;
+    margin: 25px auto 25px auto;
+    text-align: center;
+    display: block
+}
+.boxed2 {
+    width: 300px;
+    border: 15px solid;
+    border-color: purple;
+    padding: 25px;
+    margin: 0px 200 0px auto;
+    border-radius: 50%;
+    display: block
+}
+.larger-image {
+  width: 450px;
+</style>
+
+
+<h1 class="blue-text Mali-font boxed" style="color: red; border-color: brown;" > "M" is for Murder </h1>
+<img class="larger-image boxed2"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-e-S8Cboo2sRaURijnvY7nQtDIBddjqTT7-EGRmN2ZY-Bayio" alt="Scary Clown">
+<h1 style="color: purple; text-align: center; font-family: creepster; font-size: 65"> Trick or treat...</h1>
