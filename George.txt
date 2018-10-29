@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+
+<head>
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+</head>
+
+<body>
+<h1 style="text-align:center; color:blue"> This is H1 Centered with color set to Blue</h1>
+<h2 style="text-align:right; color: #ff33cc"><em>This is H2 in italics with color set by hex code; aligned right</em></h2>
+<h3 style="font-family:Indie flower; color:#09A"><strong>This is an H3 element that displays a lovely font imported from Google Fonts called Indie Flower<br>This element also contains a strong bold font and incorperates a line break</strong></h3>
+<img src="https://cdn-images-1.medium.com/max/1600/0*CVamGFBAVpnUmMY-." width=500 alt="a chimp named George">
+
+<p style="margin-left:100px; color:red; font-size:20"> <strong>This is a chimp. His name is George.</strong>
+  <br> This element has implemented margin-left spacing,<br> combined with a strong bold red font above.</p>
+<br><br>
+<iframe src="https://www.youtube.com/embed/e2-3af95Uf4" width="560" height="315" align="middle" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</body>
+
+</html>
